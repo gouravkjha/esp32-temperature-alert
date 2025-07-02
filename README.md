@@ -11,7 +11,7 @@ The system lights up different LEDs and activates a buzzer based on the temperat
 - Resistors (220Ω for LEDs)
 - Breadboard and jumper wires
 
-## How it Works
+##  How it Works
 - **Green LED**: Temperature is normal (10°C to 45°C)
 - **Orange LED**: High temperature (45°C to 60°C)
 - **Red LED + Buzzer**: Critical temperature (Above 60°C)
@@ -21,6 +21,13 @@ The system lights up different LEDs and activates a buzzer based on the temperat
 
 This project was tested and simulated on Wokwi:  
 👉 [Click here to view the Wokwi simulation](https://wokwi.com/projects/435369335229707265)
+
+##  Circuit Diagram
+
+Below is the screenshot of the Wokwi simulation circuit:
+
+![Circuit Diagram](circuit.png)
+
 
 ## ✅ Status
 ✅ Working and tested on Wokwi  
